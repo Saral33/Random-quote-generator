@@ -1,0 +1,36 @@
+#box {
+    box-sizing: border-box;
+    height: 900px;
+    width: 550px;
+    margin: auto;
+    border: 2px solid black;
+    background-image:linear-gradient(rgb(245, 233, 243),rgb(48, 10, 136));
+    color:rgb(7, 7, 53);
+    
+    opacity: 0.9;
+}
+#btn1{
+    border-radius: 40px;
+    height: 50px;
+    background-color: rgb(43, 12, 12);
+    width: 100px;
+    color: white;
+}
+#btn2{
+    
+    border-radius: 40px;
+    height: 50px;
+    background-color: rgb(40, 15, 46);
+    width: 100px;
+    color: white;
+    margin-left: 50px;
+}
+#flex{
+    color:rgb(13, 13, 19);
+}
+body{
+    background-image:url("nature.jpg");
+    background-size: cover;
+    background-position: center;
+    
+}
