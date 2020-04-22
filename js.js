@@ -4,10 +4,9 @@ var quotes=[
     "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.-Albert Einstein",
     "So many books, so little time.-Frank Zappa",
     "A room without books is like a body without a soul.-Marcus Tullius Cicero",
-    "Don't drink and drive if you did better call saul. -Saul Goodman",
-    "I'm the one who knocks. I am the danger. -Walter White",
-    "You are the most smartest person I ever met,yet you don't know he made his mind ten minutes ago. -Hank",
-    "you you you you............ killed uncle Hank.- Walter Junior"
+   "If you cannot do great things, do small things in a great way.- Napolean Hill",
+    "If opportunity doesn’t knock, build a door.-Milton Berle",
+    "Either you run the day, or the day runs you.-Jim Rohn"
 
 ]
 
