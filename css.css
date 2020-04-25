@@ -1,0 +1,51 @@
+#box {
+   
+    height: 80px;
+    background-color: rgb(246, 247, 248);
+    margin: 0 auto;
+    border: 2px solid black;
+   width: 500px;
+    color:#070735;
+     opacity: 0.9;
+    
+}
+
+#btn1{
+    border-radius: 40px;
+    height: 50px;
+    background-color: rgb(43, 12, 12);
+    width: 100px;
+    color: white;
+    margin-top: 5px;
+}
+#btn2{
+    
+    border-radius: 40px;
+    height: 50px;
+    background-color: rgb(40, 15, 46);
+    width: 100px;
+    color: white;
+    margin-left: 50px;
+}
+#flex{
+    
+    color:rgb(214, 214, 238);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-image:linear-gradient(rgb(8, 8, 8),rgb(16, 14, 17));
+}
+
+body{
+    background-image:url("nature.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    
+}
+#buttons{
+    background-image:linear-gradient(rgb(8, 8, 8),rgb(16, 14, 17));
+
+    
+    height: 80px;
+}
